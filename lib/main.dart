@@ -1,5 +1,6 @@
 // ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors
 
+import 'package:chat_flutter/screens/splashscreen.dart';
 import 'package:flutter/material.dart';
 import 'package:chat_flutter/screens/welcome_screen.dart';
 import 'package:chat_flutter/screens/login_screen.dart';
@@ -19,7 +20,8 @@ class FlashChat extends StatelessWidget {
       ),
       initialRoute: '/',
       routes: {
-        '/': (context) => WelcomeScreen(),
+        '/': (context) => splashscreen(),
+        '/welcome': (context) => WelcomeScreen(),
         '/login': (context) => LoginScreen(),
         '/registration': (context) => RegistrationScreen(),
         '/chat': (context) => ChatScreen(),
