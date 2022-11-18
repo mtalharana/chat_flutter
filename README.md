@@ -1,6 +1,6 @@
 # Chat App
 The Chat app was a significant milestone that was turned by learning  about the following:
--Named Routes
+-Named Routes <br>
 -const Static Modifiers
 -Hero Animation
 -Custom Animations and Mixins
