@@ -1,16 +1,27 @@
-# chat_flutter
+# Chat App
+The Chat app was a significant milestone that was turned by learning  about the following:
+-Named Routes
+-const Static Modifiers
+-Hero Animation
+-Custom Animations and Mixins
+-Adding Pro built Animations
+-Creating Firebase Project
+-Setup for the Flutter
+-Complete Auth Functionality using Firebase Auth
+-Adding Wait Spinners
+-Saving Data in Firestore
+-Showing Data Using Stream Builder
+-List View
+-Different UI for Different Senders
 
-A new Flutter project.
+Code:
+https://github.com/mtalharana/chat_flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Stay Tuned for my Thrilling, Consistent, and problem-solving flutter journey.
 
-A few resources to get you started if this is your first Flutter project:
+Please react with Love, Comment, Repost, or send it to those you care much about this fantastic journey.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ #flutter  #lahorejobs  #hr #hiring
+#flutterdev #fluttercommunity #flutterjobs
